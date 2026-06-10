@@ -17,3 +17,4 @@ openvino_model/
 node_modules
 bkp/
 .venv/
+.DS_Store
